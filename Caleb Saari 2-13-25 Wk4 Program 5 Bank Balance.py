@@ -5,7 +5,6 @@
 # When the loop finishes, the program should display the amount that the 
 # user is over or under budget.
 
-def main():
     
 total_spent = 0
 
